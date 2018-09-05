@@ -1,0 +1,55 @@
+body {
+  background: rgba(42,77,110, 0.9);
+  font-family: sans-serif;
+  margin: 0;
+  padding: 0;
+}
+span{
+  color: #041E37;
+  text-shadow: none;
+}
+.all{
+  border: 1px solid white;
+  width:30%;
+  float: left;
+  height: 300px;
+  margin-bottom: 25px;
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  text-align: center;
+}
+.heading{
+  color: white;
+  text-shadow: 2px 2px 4px #000000;
+  font-size: 1.5em;
+  height:200px;
+  text-align: center;
+  margin-top: 50px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+.main{
+  margin-left: 10%;
+}
+.options{
+  height: 50px;
+  width: 49%;
+  font-size: 1.3em;
+  float:left;
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+.slots{
+  text-align: center;
+  width: 100%;
+  color: white;
+  text-shadow: 2px 2px 4px #000000;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+}
