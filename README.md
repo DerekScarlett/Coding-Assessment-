@@ -1,7 +1,6 @@
 # City Bikes API
 Description:
-.... will be using the React framework to build out a next generation web application. We
-would like you to demonstrate your ability to learn the framework and create quality code.
+
 The CityBikes API (https://api.citybik.es/v2/) provides a free RESTful API to retrieve bike-sharing data
 from around the world. Using this API, retrieve station information from a network of your choice (or you
 may use hubway) and display the name, number of free bikes, and number of empty slots for each
